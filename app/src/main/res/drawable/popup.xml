@@ -3,7 +3,7 @@
     android:shape="rectangle">
 
     <!-- This uses the default window background color, which adapts to light/dark mode -->
-    <solid android:color="@color/md_theme_background"/>
+    <solid android:color="?android:attr/colorBackground"/>
     <corners android:radius="24dp" />
 
 </shape>
