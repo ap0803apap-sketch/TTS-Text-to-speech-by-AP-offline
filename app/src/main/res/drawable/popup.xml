@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- This uses the default window background color, which adapts to light/dark mode -->
+    <solid android:color="@color/md_theme_background"/>
+    <corners android:radius="24dp" />
+
+</shape>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LIGHT THEME COLORS (Based on Image 2) -->
+    <color name="md_theme_light_primary">#8B41FE</color> <!-- Vibrant Expressive Purple -->
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#EADDFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#24005A</color>
+
+    <color name="md_theme_light_secondary">#6D568D</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#F2E5FF</color>
+    <color name="md_theme_light_onSecondaryContainer">#271345</color>
+
+    <color name="md_theme_light_tertiary">#FA6A7B</color> <!-- Expressive Coral/Pink Accent -->
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#FFD8DC</color>
+    <color name="md_theme_light_onTertiaryContainer">#3F0013</color>
+
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+
+    <color name="md_theme_light_background">#FEF7FF</color> <!-- Soft Lilac Tint -->
+    <color name="md_theme_light_onBackground">#1C1A20</color>
+    <color name="md_theme_light_surface">#FEF7FF</color>
+    <color name="md_theme_light_onSurface">#1C1A20</color>
+    <color name="md_theme_light_surfaceVariant">#E7E0EC</color>
+    <color name="md_theme_light_onSurfaceVariant">#49454F</color>
+    <color name="md_theme_light_outline">#7A757F</color>
+    <color name="md_theme_light_inverseOnSurface">#F5EFF4</color>
+    <color name="md_theme_light_inverseSurface">#313033</color>
+    <color name="md_theme_light_inversePrimary">#D0BCFF</color>
+    <color name="md_theme_light_shadow">#000000</color>
+
+    <!-- DARK THEME COLORS (Based on Image 1) -->
+    <color name="md_theme_dark_primary">#D3BBFF</color> <!-- Bright Pastel Purple -->
+    <color name="md_theme_dark_onPrimary">#430099</color>
+    <color name="md_theme_dark_primaryContainer">#631AE5</color>
+    <color name="md_theme_dark_onPrimaryContainer">#EADDFF</color>
+
+    <color name="md_theme_dark_secondary">#D4C8F5</color>
+    <color name="md_theme_dark_onSecondary">#3D285B</color>
+    <color name="md_theme_dark_secondaryContainer">#543F73</color>
+    <color name="md_theme_dark_onSecondaryContainer">#F2E5FF</color>
+
+    <color name="md_theme_dark_tertiary">#FFB3BA</color> <!-- Pastel Coral/Pink Accent -->
+    <color name="md_theme_dark_onTertiary">#680023</color>
+    <color name="md_theme_dark_tertiaryContainer">#8F0035</color>
+    <color name="md_theme_dark_onTertiaryContainer">#FFD8DC</color>
+
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+
+    <color name="md_theme_dark_background">#150E1A</color> <!-- Deep Expressive Purple-Black -->
+    <color name="md_theme_dark_onBackground">#E6E0E9</color>
+    <color name="md_theme_dark_surface">#150E1A</color>
+    <color name="md_theme_dark_onSurface">#E6E0E9</color>
+    <color name="md_theme_dark_surfaceVariant">#49454F</color>
+    <color name="md_theme_dark_onSurfaceVariant">#CAC4D0</color>
+    <color name="md_theme_dark_outline">#948F99</color>
+    <color name="md_theme_dark_inverseOnSurface">#1C1A20</color>
+    <color name="md_theme_dark_inverseSurface">#E6E0E9</color>
+    <color name="md_theme_dark_inversePrimary">#8B41FE</color>
+    <color name="md_theme_dark_shadow">#000000</color>
+
+    <!-- Shared Extras -->
+    <color name="frosted_glass_light">#CCFFFFFF</color>
+    <color name="frosted_glass_dark">#CC150E1A</color>
+</resources>

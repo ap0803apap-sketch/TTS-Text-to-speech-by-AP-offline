@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TTS by AP</string>
+    <string name="developer_info">Developer: AP\nEmail: ap0803apap@gmail.com</string>
+    <string name="input_hint">Enter text to speak…</string>
+    <string name="letters_count">Letters: %d</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="clear">Clear</string>
+    <string name="from_start">From Start</string>
+    <string name="from_cursor">From Cursor</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_voice">Select Voice</string>
+    <string name="speed">Speed</string>
+    <string name="pitch">Pitch</string>
+    <string name="volume">Volume</string>
+    <string name="test_voice">Test Voice</string>
+    <string name="speak">Speak</string>
+    <string name="stop_speak">Stop Speak</string>
+    <string name="export_audio">Export Audio</string>
+    <string name="reset_settings">Reset Settings</string>
+    <string name="exporting">Exporting…</string>
+    <string name="cancel_export">Cancel Export</string>
+    <string name="input_actions">Input &amp; Actions</string>
+    <string name="voice_config">Voice Configuration</string>
+    <string name="main_controls">Main Controls</string>
+    <string name="exporting_preparing">Exporting… (Preparing)</string>
+    <string name="exporting_progress">Exporting… %1$d%% (Time left: %2$ds)</string>
+
+    <!-- NEW STRINGS -->
+    <string name="input_type">Input Type</string>
+    <string name="paste_text">Paste Text</string>
+    <string name="upload_file">Upload .txt File</string>
+    <string name="select_file">Select .txt File</string>
+    <string name="file_read_success">File loaded successfully.</string>
+    <string name="file_read_error">Error reading file.</string>
+    <string name="selected_file">Selected: %s</string>
+
+</resources>
