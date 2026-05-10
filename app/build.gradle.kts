@@ -14,14 +14,14 @@ kotlin {
 
 extensions.configure<ApplicationExtension> {
     namespace = "com.ap.tts"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.ap.tts"
         minSdk = 30
-        targetSdk = 36
-        versionCode = 5
-        versionName = "5.0.1(22-10-25)"
+        targetSdk = 37
+        versionCode = 6
+        versionName = "6.0.0(22-10-25)"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

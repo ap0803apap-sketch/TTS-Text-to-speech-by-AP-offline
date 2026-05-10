@@ -478,6 +478,19 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         val amoledSwitch = view.findViewById<MaterialSwitch>(R.id.amoledSwitch)
         val bsBiometricSwitch = view.findViewById<MaterialSwitch>(R.id.bsBiometricSwitch)
         val githubLink = view.findViewById<TextView>(R.id.githubLink)
+        val licenseHeader = view.findViewById<LinearLayout>(R.id.licenseHeader)
+        val licenseText = view.findViewById<TextView>(R.id.licenseText)
+        val licenseExpandIcon = view.findViewById<ImageView>(R.id.licenseExpandIcon)
+
+        licenseHeader.setOnClickListener {
+            if (licenseText.visibility == View.VISIBLE) {
+                licenseText.visibility = View.GONE
+                licenseExpandIcon.animate().rotation(0f).start()
+            } else {
+                licenseText.visibility = View.VISIBLE
+                licenseExpandIcon.animate().rotation(180f).start()
+            }
+        }
 
         when (sharedPreferences.getInt(KEY_THEME, 0)) {
             0 -> themeGroup.check(R.id.themeSystem)
